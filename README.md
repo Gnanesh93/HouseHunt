@@ -461,15 +461,3 @@ Admin Monitors Entire Platform
 This project was developed for educational purposes as part of the **SkillWallet Full Stack MERN Development Program**.
 
 ---
-
-# 👨‍💻 Developed By
-
-**Gnaneswara Rao Kotyada**
-
-B.Tech Computer Science and Engineering
-
-Anil Neerukonda Institute of Technology & Sciences (ANITS)
-
-GitHub: https://github.com/your-github-username
-
-LinkedIn: https://linkedin.com/in/your-linkedin-profile
